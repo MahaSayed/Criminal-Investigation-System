@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Types>
+  <Type>
+    <ID>1</ID>
+    <Name>Robbery</Name>
+  </Type>
+  <Type>
+    <ID>2</ID>
+    <Name>Kidnap</Name>
+  </Type>
+  <Type>
+    <ID>3</ID>
+    <Name>Murder</Name>
+  </Type>
+  <Type>
+    <ID>4</ID>
+    <Name>Rape</Name>
+  </Type>
+  <Type>
+    <ID>5</ID>
+    <Name>Drugs</Name>
+  </Type>
+  <Type>
+    <ID>6</ID>
+    <Name>Treason</Name>
+  </Type>
+  <Type>
+    <ID>7</ID>
+    <Name>Money Laundering</Name>
+  </Type>
+  <Type>
+    <ID>8</ID>
+    <Name>Embezzlement</Name>
+  </Type>
+  <Type>
+    <ID>9</ID>
+    <Name>Fraud</Name>
+  </Type>
+  <Type>
+    <ID>10</ID>
+    <Name>Organ Trade</Name>
+  </Type>
+</Types>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<case>
+  <crime>
+    <CrimeID>1</CrimeID>
+    <TypeID>6</TypeID>
+    <Status>1</Status>
+    <Area>Nasrcity</Area>
+    <Description>Menna was killed</Description>
+    <OfficerID>1</OfficerID>
+    <ItemsFound>mobile,charger,swiss knife,</ItemsFound>
+    <Suspect>Maii</Suspect>
+    <Imagee>C:\Users\sayed\Pictures\flowers+envelops\26165706_1796454907063123_1210365507281584283_n.jpg</Imagee>
+    <Criminal>Maii</Criminal>
+  </crime>
+  <crime>
+    <CrimeID>3</CrimeID>
+    <TypeID>2</TypeID>
+    <Status>1</Status>
+    <Area>bjsj</Area>
+    <Description>hhhh</Description>
+    <OfficerID>1</OfficerID>
+    <ItemsFound>lll</ItemsFound>
+    <Suspect>Sarah,Maii,</Suspect>
+    <Imagee>C:\Users\sayed\Pictures\flowers+envelops\26167967_1796454680396479_5451594104918599787_n.jpg</Imagee>
+    <Criminal>Sarah</Criminal>
+  </crime>
+  <crime>
+    <CrimeID>4</CrimeID>
+    <TypeID>2</TypeID>
+    <Status>1</Status>
+    <Area>lo</Area>
+    <Description>hj</Description>
+    <OfficerID>2</OfficerID>
+    <ItemsFound>lll,klkl,</ItemsFound>
+    <Suspect>Sarah,Maii,Maii,</Suspect>
+    <Imagee>C:\Users\sayed\Pictures\flowers+envelops\26165809_1796454633729817_3321376247329529358_n.jpg</Imagee>
+    <Criminal>Maii</Criminal>
+  </crime>
+</case>

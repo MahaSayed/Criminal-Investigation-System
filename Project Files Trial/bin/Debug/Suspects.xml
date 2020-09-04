@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InvolvedPeople>
+  <Person>
+    <ID>1</ID>
+    <Name>Maii</Name>
+    <Age>18</Age>
+    <Location>El beit</Location>
+    <Image>C:\Users\sayed\Pictures\flowers+envelops\26165706_1796454907063123_1210365507281584283_n.jpg</Image>
+    <Points>11</Points>
+  </Person>
+  <Person>
+    <ID>2</ID>
+    <Name>Sarah</Name>
+    <Age>20</Age>
+    <Location>Nasrcity</Location>
+    <Image>C:\Users\sayed\Pictures\flowers+envelops\26165414_1796454747063139_7843566135845884424_n.jpg</Image>
+    <Points>9</Points>
+  </Person>
+  <Person>
+    <ID>3</ID>
+    <Name>Mostafa</Name>
+    <Age>20</Age>
+    <Location>beito</Location>
+    <Image>C:\Users\sayed\Pictures\flowers+envelops\26165706_1796454907063123_1210365507281584283_n.jpg</Image>
+    <Points>7</Points>
+  </Person>
+  <Person>
+    <ID>4</ID>
+    <Name>Karim</Name>
+    <Age>22</Age>
+    <Location>masa7a</Location>
+    <Image>C:\Users\sayed\Pictures\Photo Grid\PhotoGrid_1513092670103.jpg</Image>
+    <Points>90</Points>
+  </Person>
+</InvolvedPeople>
